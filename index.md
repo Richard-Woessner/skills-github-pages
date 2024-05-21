@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Richard Woessner Blog
 ---
 
 # Legs Go I Guess
